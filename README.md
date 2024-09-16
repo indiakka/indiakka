@@ -1,6 +1,7 @@
 
+![github-header-image](https://github.com/user-attachments/assets/11dc5332-78f6-4c46-a2ff-1fa2b94b032a)
 
-![github-header-image (4)](https://github.com/user-attachments/assets/c650e159-7482-4ade-8e51-8b898aa54d5b)
+
 
 ¡Hey, hola! 👋 Soy una entusiasta de la tecnología y tengo una fuerte dosis de curiosidad. Secretaria, ahora en pleno viaje hacia el emocionante mundo de la programación.
 
