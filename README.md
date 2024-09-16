@@ -2,7 +2,13 @@
 
 ![github-header-image (4)](https://github.com/user-attachments/assets/c650e159-7482-4ade-8e51-8b898aa54d5b)
 
+¡Hey, hola! 👋 Soy una entusiasta de la tecnología y tengo una fuerte dosis de curiosidad. Secretaria, ahora en pleno viaje hacia el emocionante mundo de la programación.
 
+Mi experiencia organizativa, capacidad para la multitarea y ojo para los detalles son mi conjunto de superpoderes en esta nueva aventura.
+
+Estoy en una relación seria con el aprendizaje constante y actualmente, estoy pasando mi tiempo con JavaScript y de vez en cuando, me lanzo a la aventura con Python, ¡y créeme, estamos teniendo un romance tecnológico muy emocionante!
+
+Estoy lista para formar parte de la tribu de programadores y transformar ideas en líneas de código. ¡Conéctate conmigo y juntos podemos explorar este mundo digital lleno de emocionantes posibilidades!
 
 
 ## 🌐 Socials:
